@@ -1,5 +1,5 @@
 pkgname=namib-keyring
-pkgver=1.0.0
+pkgver=17.09
 pkgrel=1
 pkgdesc='Namib PGP keyring'
 arch=('any')
